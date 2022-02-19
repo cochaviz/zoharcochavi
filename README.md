@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Zohar and I'm currently a computer science and engineering student at TU Delft! I'm mainly interested in theoretical computer science, but almost everything about computer science is interesting to me.
+
+I'm currently also playing [battlesnake](https://play.battlesnake.com/u/cochaviz/), so challenge me if you dare! :)
+
 <!--
 **zoharcochavi/zoharcochavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
